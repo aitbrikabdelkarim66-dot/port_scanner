@@ -22,4 +22,4 @@ with open ("Data.txt","r") as f:
              Write.Print("Mybe os is : ",Colors.blue_to_cyan)
              print("Linux" if ttl<=64 else "Windows" if ttl<=128 else "Cisco" if ttl<=255 else "Unknown")
         else:
-             Write.Print("we have problem mybe is firewalle or else problem  ",Colors.black_to_red)
+             Write.Print("error🛑🛑🛑 :mybe is firewalle  ",Colors.black_to_red)
